@@ -21,7 +21,6 @@ This dynamic website calculates the Sequential Organ Failure Assessment (SOFA) s
 │   result.php         ← Displays subscores and total score
 │   logout.php         ← Clears cookies/session
 │   style.css          ← Common stylesheet
-│   (optional) script.js ← Any client‑side helpers
 └───assets/
     └───images/        ← (optional) icons or diagrams
 ```
